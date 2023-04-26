@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#canvas1 {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+}
